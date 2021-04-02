@@ -10,3 +10,4 @@
 
 ---
 # 앱 실행 화면
+![KakaoTalk_20210402_141410410](https://user-images.githubusercontent.com/70185380/113382997-dbc2a280-93bd-11eb-8982-2a9e7b1c321a.gif)
